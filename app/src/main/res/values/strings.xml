@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidJavaProgram1_FinalProject</string>
+    <string name="textViewTitle">Course Registration</string>
+    <string name="editTextLastName">Last Name</string>
+</resources>
